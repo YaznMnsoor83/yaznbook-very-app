@@ -8,6 +8,7 @@ interface AvatarProps {
   userId: string;
   isLarge?: boolean;
   a?: boolean;
+  lamgay?:boolean;
   hasBorder?: boolean;
 }
 
